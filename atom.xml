@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>World</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-09-11T03:32:44.295Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>CS -L</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>journalism</title>
+    <link href="http://example.com/2020/09/11/journalism/"/>
+    <id>http://example.com/2020/09/11/journalism/</id>
+    <published>2020-09-11T03:31:30.933Z</published>
+    <updated>2020-09-11T03:32:44.295Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://huanqiukexue.com/">https://huanqiukexue.com/</a><br><a href="http://www.mittrchina.com/">http://www.mittrchina.com/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://huanqiukexue.com/&quot;&gt;https://huanqiukexue.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.mittrchina.com/&quot;&gt;http://www.mittrchina.com/&lt;/a&gt;&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Community-base</title>
+    <link href="http://example.com/2020/09/08/Community-base/"/>
+    <id>http://example.com/2020/09/08/Community-base/</id>
+    <published>2020-09-08T00:24:39.227Z</published>
+    <updated>2020-09-08T00:28:01.954Z</updated>
+    
+    <content type="html"><![CDATA[<p>self-acceptance<br>he is reliable<br>the other contribution</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;self-acceptance&lt;br&gt;he is reliable&lt;br&gt;the other contribution&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Community</title>
+    <link href="http://example.com/2020/09/06/Community/"/>
+    <id>http://example.com/2020/09/06/Community/</id>
+    <published>2020-09-06T06:49:41.058Z</published>
+    <updated>2020-09-06T07:19:29.839Z</updated>
+    
+    <content type="html"><![CDATA[<p>《The courage to be hated》<br>China put forward “人类命运共同体“</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;《The courage to be hated》&lt;br&gt;China put forward “人类命运共同体“&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2020/09/05/hello/"/>
+    <id>http://example.com/2020/09/05/hello/</id>
+    <published>2020-09-05T08:24:56.937Z</published>
+    <updated>2020-09-05T11:27:04.907Z</updated>
+    
+    <content type="html"><![CDATA[<p>How are world doing?</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;How are world doing?&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
